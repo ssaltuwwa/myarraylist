@@ -23,7 +23,7 @@ src/
 🛠 Usage
 Clone the Repository:
 
-git clone https://github.com/yourusername/CustomDataStructures.git
+git clone https://github.com/ssaltuwwa/myarraylist.git
 Navigate to the Project Directory:
 
 cd CustomDataStructures
